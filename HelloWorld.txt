@@ -1,1 +1,2 @@
 HelloWorld
+A test for two files comparing.
